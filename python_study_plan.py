@@ -1,23 +1,20 @@
 # จงเขียนโปรแกรมบวกเลขสองตัว
 
-# สร้างตัวแปร datatype number
-
+# สร้างตัวแปรตัวเลข
 a = 1;
 b = 2;
 
 print(a+b); # 3
 
 # -----------------------------
+# การรับค่าข้อมูลจาก console
+a = int(input("a). จำนวนที่ 1 >> "))
+b = int(input("b). จำนวนที่ 2 >> "))
 
-a = int(input());
-print(type(a));
+# ผลลัพธ์ 
+result = a + b 
 
-b = int(input());
-print(type(b));
-
-sum =a+b;
-
-print(sum);
+print("ผลบวกของ a + b =  " , result);
 
 
 # SOURCE: https://github.com/MarbleCode/Intro_python/blob/main/python_study_plan.ipynb
