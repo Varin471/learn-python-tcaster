@@ -26,3 +26,6 @@ print(type(Bool)) # <class 'bool'>
 
 # SOURCE: https://github.com/MarbleCode/Intro_python/blob/main/1_Data_type_python_by_Haru.ipynb
 ### ==>>>  ผู้สอน haru_tutor   
+  # instagram: https://www.instagram.com/haru_tutor
+  # youtube: https://www.youtube.com/channel/UCKh8bt1fUttU7d-0J5BnxPg/featured
+  # live: https://www.twitch.tv/haru_marblecode
