@@ -34,13 +34,14 @@ for i in range(10):
 
 # 3.)
 
-x=10
+x = 10
 print(type(x)) # // <class 'int'>
 
 
 # 4.) 
 
-y=5
+y = 5
+
 for n in range(10,26,1):
   print('จำนวนรอบ:',n)
   print('y:',y)
@@ -83,3 +84,7 @@ print('คำตอบ : ',y)
 # y: 20
 # จำนวนรอบ: 25
 # คำตอบ :  21
+
+
+# SOURCE: https://github.com/MarbleCode/Intro_python/blob/main/intro_python.ipynb
+### ==>>>  ผู้สอน haru_tutor   
