@@ -47,5 +47,6 @@ import numpy # Numerical Python
 # print(array[2:7]) # [22 23 24 25 26]
 
 
-
+# SOURCE: https://github.com/MarbleCode/Intro_python/blob/main/numpy_python_by_Haru.ipynb
+### ==>>>  ผู้สอน haru_tutor   
 
